@@ -1,0 +1,57 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.margin-0 {
+  margin: 0 !important;
+}
+
+.padding-0 {
+  padding: 0 !important;
+}
+
+.center-block {
+  width: 100%;
+}
+
+#authCard .card .card-content {
+  overflow: hidden;
+}
+
+#authCard .tabs .tab a {
+  color: #eee;
+}
+
+#authCard .tabs .tab a.active {
+  color: #00c853;
+}
+
+#authCard .tabs .indicator {
+  background-color: #00c853;
+  background: none;
+}
+
+#registerSection, #loginSection {
+  overflow: hidden;
+}
+
+button[type=submit].btn-large.green.accent-4 {
+  margin-top: 30px;
+}
+
+.index_page_authCard {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.card-content_more {
+  display: none;
+}
+
+.userDataName,
+.userDataEmail {
+  font-size: 20px;
+  font-weight: 600;
+}/*# sourceMappingURL=index.css.map */
